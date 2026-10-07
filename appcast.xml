@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>vehub-worker</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 07 Oct 2026 05:28:04 -0500</pubDate>
-            <sparkle:version>0.1.0</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.1.1</title>
+            <pubDate>Wed, 07 Oct 2026 06:17:05 -0500</pubDate>
+            <sparkle:version>0.1.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zoonix/vehub-worker-releases/releases/download/v0.1.0/vehub-worker-0.1.0-macos-universal.zip" length="14009473" type="application/octet-stream" sparkle:edSignature="uw/go11lizE2V2kX73mSIiGYvIiOQucf+rn1X+zGxpmzdhPboNmHAYzrRoGZbrIKnDnfqeXXGH9CIFqu68rWDg=="></enclosure>
+            <enclosure url="https://github.com/zoonix/vehub-worker-releases/releases/download/v0.1.1/vehub-worker-0.1.1-macos-universal.zip" length="14009473" type="application/octet-stream" sparkle:edSignature="dOSqQshomJ4x2W83r1eTc804xSu2L21FWQbYZ2kG9oAkCE+RVyXTsS0vBYqEbUV7/YYRVp7KvK40YJZaUHLPCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 5OUX51FYvUaDGmHzQjZJeXWL8rmAoVoub7KDPhQiNBAsCdsN4bNq8Mpzmagv1MpRftkimsSOO6T2jg+vFnzrCw==
+edSignature: 15wl15GGeSIS3mh8FEAHgJ/J75zQH2o2kNBMivQYbZMjWoQ3UbhOELxI+l3RyF6SZ9bSpjN8EsIDrIUE200SCQ==
 length: 1081
 -->
